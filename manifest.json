@@ -1,0 +1,10 @@
+﻿{
+  "Name": "EventsPlus",
+  "Author": "Olivki",
+  "Version": "1.0.0",
+  "Description": "Adds more commands to the Stardew Valley event scripting system.",
+  "UniqueID": "Olivki.EventsPlus",
+  "EntryDll": "EventsPlus.dll",
+  "MinimumApiVersion": "2.8.2",
+  "UpdateKeys": [ "Nexus:3108" ]
+}
